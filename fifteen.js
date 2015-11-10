@@ -1,5 +1,5 @@
 // Fifteen puzzle, Javascript
-//Leon-Neil Nash
+//ID: 620048556
 //Project 2
 
 var BLANK_X = 300;
