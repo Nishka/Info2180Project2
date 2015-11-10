@@ -1,5 +1,5 @@
 // Fifteen puzzle, Javascript
-//Leon-Neil Nash
+//620048556
 //Project 2
 
 var BLANK_X = 300;
@@ -80,7 +80,7 @@ function shuffle() {
   }
 }
 
-// tests whether a given tile neighbors the blank square
+// tests a given tile neighbors the blank square
 function neighborTest(x, y) {
   if (Math.abs(BLANK_Y - parseInt(y)) == 100) {
     if (Math.abs(BLANK_X - parseInt(x)) == 0) {
